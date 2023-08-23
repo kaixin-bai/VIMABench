@@ -2,8 +2,8 @@ pybullet
 gym==0.21.0
 einops
 dm-tree
-torch
-torchvision
+# torch
+# torchvision
 psutil
 opencv-python
 matplotlib
